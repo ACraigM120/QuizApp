@@ -1,0 +1,59 @@
+(A) What is your name?
+1. King Arthur
+2. Merlin
+3. Sir Lancelot
+3
+(9) What is your quest?
+A. To seek the Holy Grail
+B. Destroy the One Ring
+C. Avenge the town of Starting Point
+A
+(c) What is your favorite color?
+1. red
+2. green
+3. blue
+4. yellow
+3
+(9) What is your name?
+a. Darth Vader
+b. Sir Robin
+c. Sir Lancelot
+b
+(%) What is your quest?
+1. blue
+2. Save the princess
+3. To seek the Holy Grail
+3
+(9) What is the capital of Assyria?
+!. Assur
+@. Damascus
+#. Mos Eisley
+$. Tar Valon
+%. I don't know that!
+!
+(7)1) What is your name?
+1. Sir Galahad
+2. Frodo
+1
+(9) What is your quest?
+1.1. To find a date for the dance
+2.2. To seek the Holy Grail
+2.2
+()) What is your favorite color?
+1. blue
+2. yellow
+2
+(9) What is your name?
+.. Arthur, King of the Brittons
+?. Merlin
+!. Gollum
+.
+(-3.14159) What is your quest?
+This. To destroy the Death Star
+That. To seek the Holy Grail
+Other. To win $1 million
+That
+( 1 2 ) What is the airspeed velocity of an unladen swallow?
+ 1 . African
+ 2 . European
+ 2 

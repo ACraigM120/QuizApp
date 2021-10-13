@@ -1,0 +1,4 @@
+(1) What is the hex color for white?
+1. #FFFFFF
+2. #000000
+1
